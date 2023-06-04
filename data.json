@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "name": "Karthik Sharma",
+      "email": "karthik@abc.com"
+    },
+    {
+      "id": 102,
+      "name": "Karthik Sharma",
+      "email": "karthik@abc.com"
+    },
+    {
+      "id": 103,
+      "name": "Karthik Sharma",
+      "email": "karthik@abc.com"
+    },
+    {
+      "id": 104,
+      "name": "Santosh Nadgeri",
+      "email": "Santosh@nadgeri.com"
+    },
+    {
+      "id": 105,
+      "name": "Amit Nadgeri",
+      "email": "Amit@nadgeri.com"
+    },
+    {
+      "id": 106,
+      "name": "Sanjeev Nadgeri",
+      "email": "Sanjeev@nadgeri.com"
+    }
+  ]
+}
